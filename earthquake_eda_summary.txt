@@ -1,0 +1,4 @@
+Total records: 782
+Total tsunami events: 304
+Average Magnitude (Tsunami): 6.94
+Average Depth (Tsunami): 85.66 km
